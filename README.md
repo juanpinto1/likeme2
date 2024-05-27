@@ -34,6 +34,7 @@ Content-Type: application/json
 //sin URL de IMAGEN //
 POST http://127.0.0.1:3000/api/likes/add 
 Content-Type: application/json
+
 {
 "titulo": "Vegeta",
 "img": "",
